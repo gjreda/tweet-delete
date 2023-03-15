@@ -9,4 +9,4 @@ $ python main.py --num_days_ago 21
 ```
 
 ### issues
-Handling rate limits is overkill since this script can just run every few hou
+Handling rate limits is overkill since this script can just run every few hours
